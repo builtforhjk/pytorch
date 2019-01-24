@@ -1,4 +1,6 @@
 - content: 内容图片
 - output: 输出
 - portrait: 肖像
+- scene: 场景
 - style: 风格图片
+- xxx.json ImageNet类别标签
