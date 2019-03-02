@@ -15,7 +15,7 @@ def load_mnist(filename):
     测试集：10000个图片样本
     '''
 
-    path_prefix = '/mnt/d/code/python/ml/dataset/'
+    path_prefix = './data/'
 
     path_image_suffix = '-images.idx3-ubyte'
     path_label_suffix = '-labels.idx1-ubyte'
